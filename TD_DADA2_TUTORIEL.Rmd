@@ -60,7 +60,7 @@ silva_train_set <- file.path(refdb_folder,
 silva_species_assignment <- file.path(refdb_folder,
                                       "silva_species_assignment_v138.1.fa.gz")
 ```
-
+ 
 ```{r}
 #then we download the files if they don't already exist
 
