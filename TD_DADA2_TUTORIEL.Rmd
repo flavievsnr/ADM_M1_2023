@@ -2,7 +2,7 @@
 title: "R Notebook_DADA2_ADM"
 output: github_document
 ---
-
+ 
 # 1. Prepare your working directory
 ## 1.1 Get the repository files
 
